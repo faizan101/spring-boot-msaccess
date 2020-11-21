@@ -31,3 +31,6 @@ http://localhost:8002/accountStatement/fetch
 - toDate (Optional) (type: LocalDate, pattern = "dd/MM/yyyy")
 - fromValue (Optional) (type: Double)
 - toValue (Optional) (type: Double)
+
+###### Logout URL
+http://localhost:8002/logout
