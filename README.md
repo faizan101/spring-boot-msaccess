@@ -11,7 +11,7 @@ Sample API project with MS Access DB in Spring Boot
 ## Set-up
 - Clone the Repository.
 - In application.properties file set db.path property with path of **.accdb** file 
-- Run command "bootRun" on console or use gradle task -> application -> bootRun
+- Run command "./gradlew bootRun" on console or use gradle task -> application -> bootRun
 - On the browser run : "http://localhost:8002/"
 
 When prompted with login use the following credentials.
